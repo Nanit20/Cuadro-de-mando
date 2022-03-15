@@ -1,0 +1,28 @@
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%;
+    float:none;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+body {
+    background-color: rgba(234, 236, 221, 0.671);
+}
+
+.izquierda{
+    float:left;
+    display: block;
+    margin:350px auto auto 10px;
+    width:10%;
+}
+
+.derecha{
+    float:right;
+    margin:-400px 10px auto auto;
+}
